@@ -23,4 +23,4 @@ for (int j=9; j>-1; j--){
 
 }
 
-// Breadboar'ın ortasını geçtiği için breadboardtaki - kısmı 1 adet erkek erkek jumper ile bağladım.
+// Breadboard'ın ortasını geçtiği için breadboardtaki - kısmı 1 adet erkek erkek jumper ile bağladım.
