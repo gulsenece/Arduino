@@ -15,5 +15,3 @@ void loop() {
   }
 
 }
-
-// IEEE IZU 2.Gün'de yapılan SERVO KONTROL ÖRNEĞİ_2'dir. Videosu instada paylaşıldı.
