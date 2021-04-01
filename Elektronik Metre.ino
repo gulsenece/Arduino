@@ -29,5 +29,3 @@ void loop() {
   lcd.print(uzaklik);                                   //Uzaklık değerini LCD'ye yazdırıyoruz.
   lcd.print("cm");
 }
-
-//https://maker.robotistan.com/elektronik-metre-yapimi/?utm_source=moreVisit&utm_medium=buton&utm_campaign=diger-ders
