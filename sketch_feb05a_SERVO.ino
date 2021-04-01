@@ -20,5 +20,3 @@ void loop() {
   delay(1000); //döngü içinde olduğu için 180den 0 komutuna gidecek ve delay gereklidir.
 
 }
-
-// IEEE IZU 2.Gün'de yapılan SERVO KONTROL ÖRNEĞİ_1'dir. Videosu instada paylaşıldı.
